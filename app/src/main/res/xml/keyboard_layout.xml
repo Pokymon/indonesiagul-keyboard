@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="10%p"
+    android:keyHeight="60dp">
+
+    <Row>
+        <Key android:codes="12610" android:keyLabel="ㅂ" />
+        <Key android:codes="12616" android:keyLabel="ㅈ" />
+        <Key android:codes="12599" android:keyLabel="ㄷ" />
+        <Key android:codes="12593" android:keyLabel="ㄱ" />
+        <Key android:codes="12613" android:keyLabel="ㅅ" />
+        <Key android:codes="12671" android:keyLabel="ㅿ" />
+        <Key android:codes="12635" android:keyLabel="ㅛ" />
+        <Key android:codes="12629" android:keyLabel="ㅕ" />
+        <Key android:codes="12625" android:keyLabel="ㅑ" />
+        <Key android:codes="4514" android:keyLabel="ᆢ" />
+        <Key android:codes="12685" android:keyLabel="ㆍ" />
+    </Row>
+
+    <Row>
+        <Key android:codes="12609" android:keyLabel="ㅁ" />
+        <Key android:codes="12596" android:keyLabel="ㄴ" />
+        <Key android:codes="12615" android:keyLabel="ㅇ" />
+        <Key android:codes="12673" android:keyLabel="ㆁ" />
+        <Key android:codes="12601" android:keyLabel="ㄹ" />
+        <Key android:codes="4377" android:keyLabel="ᄙ" />
+        <Key android:codes="12622" android:keyLabel="ㅎ" />
+        <Key android:codes="12631" android:keyLabel="ㅗ" />
+        <Key android:codes="12627" android:keyLabel="ㅓ" />
+        <Key android:codes="12623" android:keyLabel="ㅏ" />
+        <Key android:codes="12643" android:keyLabel="ㅣ" />
+    </Row>
+
+    <Row>
+        <Key android:codes="12594" android:keyLabel="ㄲ" />
+        <Key android:codes="12600" android:keyLabel="ㄸ" />
+        <Key android:codes="12617" android:keyLabel="ㅉ" />
+        <Key android:codes="12611" android:keyLabel="ㅃ" />
+        <Key android:codes="12664" android:keyLabel="ㅸ" />
+        <Key android:codes="12676" android:keyLabel="ㆄ" />
+        <Key android:codes="12640" android:keyLabel="ㅠ" />
+        <Key android:codes="12636" android:keyLabel="ㅜ" />
+        <Key android:codes="12641" android:keyLabel="ㅡ" />
+        <Key android:codes="-5" android:keyLabel="DELETE" android:keyWidth="15%p" />
+    </Row>
+
+    <Row>
+        <Key android:codes="32" android:keyLabel="SPACE" android:keyWidth="20%p" />
+        <Key android:codes="10" android:keyLabel="ENTER" android:keyWidth="15%p" />
+    </Row>
+</Keyboard>
